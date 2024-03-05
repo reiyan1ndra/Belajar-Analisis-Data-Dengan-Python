@@ -9,7 +9,7 @@ from matplotlib.ticker import ScalarFormatter
 from babel.numbers import format_currency
 sns.set(style='dark')
 from matplotlib.ticker import FuncFormatter
-from tabulate import tabulate
+
 
 
 
